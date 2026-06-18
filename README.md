@@ -11,7 +11,7 @@ Power comes from a battery cell behind VCC/GND rails feeding both halves of the 
 ## Bill of Materials
 
 | Part                  | Reference  | Qty | 
-|
+| --- | --- | --- |
 | 2N3904 NPN transistor | Q1, Q2, Q3 | 3 | 
 | 220Ω resistor         | R3, R5, R6 | 3 | 
 | 4.7kΩ resistor        | R1, R2, R4 | 3 |
